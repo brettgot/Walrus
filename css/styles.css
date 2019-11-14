@@ -10,3 +10,25 @@ p{
 .header:hover {
   color: red;
 }
+.header {
+  text-align: center;
+  text-decoration: underline;
+}
+
+.lightblue-background {
+  background-color: lightblue;
+}
+
+.lightgreen-background {
+  background-color: lightgreen;
+}
+
+#lightgreen {
+float: right;
+width: 50%
+}
+
+#lightblue {
+  float: right;
+  width: 50%
+}
