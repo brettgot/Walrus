@@ -1,0 +1,12 @@
+img {
+  display: none;
+}
+
+p{
+  display: none;
+
+}
+
+.header:hover {
+  color: red;
+}
